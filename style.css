@@ -1,0 +1,26 @@
+*{
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+.content{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+button{
+    padding: 20px;
+    border: black 3px solid;
+    border-radius: 15px;
+    color: black
+
+}
+
+.counter{
+    padding: 20px;
+    text-align: center;
+}
